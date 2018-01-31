@@ -8,6 +8,14 @@ The details of the games' rules are as follows:
   - The wumpus will be move around slowly in the map.
   - You will kill the wumpus if the arrow you've fired hits the cell of the wumpus. If the arrow doesn't hit the wumpus, but hits one of the cells in the 3 * 3 grid centered on the cell of the wumpus, it will hear you and you will be dead.
   - Even if you've used up all your arrows, you still have a dagger, with which you can try to use it to kill the wumpus in its room. However you won't stand a good chance by doing that.. 
-  - In every round, you will have one opportunity to see where the wumpus is at for 2 steps. Press "C".
+  - In every round, you will have one opportunity to see where the wumpus is at for 2 steps, press "C". Use that to your advantage fully. 
+  
+  
+To compile and play:
+  - Download the java files
+  - In terminal
+    1. cd Hunt_The_Wumpus
+    2. javac *.java
+    3. java HuntTheWumpus
   
   
