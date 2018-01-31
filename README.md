@@ -14,7 +14,7 @@ The details of the games' rules are as follows:
 To compile and play:
   - Download the java files
   - In terminal
-    1. cd Hunt_The_Wumpus
+    1. cd Hunt_The_Wumpus-master
     2. javac *.java
     3. java HuntTheWumpus
   
